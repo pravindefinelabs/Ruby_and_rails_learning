@@ -52,5 +52,3 @@
  text = "I Love Ruby"
  puts text.sub("Ruby", "Java")
  puts text.gsub("","_")
-
- 
